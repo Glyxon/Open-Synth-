@@ -52,10 +52,18 @@ Open-Synth is a catalyst for a decentralized network of researchers. We aim to:
 * **Ashley et al. (2023):** TdT applications in biotechnology and DNA nanotechnology. *PubMed*.
 * **U.S. Patent 11,851,651:** Scalable methods for biopolymer synthesis using EWOD systems.
 
-## 8. The Team: A Glyxon-Academic Synergy
-* **David J. Castillo, PhD (Project Lead):** Founder of **Glyxon Biolabs**, specializing in frugal science and open-source hardware prototyping (EWOD).
-* **Carlos Barba-Ostria, PhD (Biosynthesis):** Expert in protein engineering, leading the optimization of the recombinant **TdT-Car9** system.
-* **Biological Validation:** Strategic collaboration with **Dr. Rosa Navarro’s Lab (IFC-UNAM)**, granting access to elite *C. elegans* facilities.
+## 8. The Team & Contact Information
+This project is executed by a high-level technical team with international research experience:
+
+* **David J. Castillo, PhD (Project Lead):** Founder of **Glyxon Biolabs**. Specialist in molecular biophysics and frugal science hardware.
+    * **Contact:** contact@glyxon.com
+* **Carlos Barba-Ostria, PhD (Biosynthesis):** Expert in protein engineering and enzymatic systems (USFQ). 
+    * **Contact:** cbarba@usfq.edu.ec
+* **Biological Validation:** Strategic collaboration with **Dr. Rosa Navarro’s Lab (IFC-UNAM)**, providing access to specialized *C. elegans* and microinjection facilities.
+    * **Contact:** rnavarro@ifc.unam.mx
 
 ---
-*Empowering Decentralized Science through Open Infrastructure.* [www.glyxon.com](https://www.glyxon.com)
+### Collaboration & Inquiries
+For technical inquiries, community partnerships, or to join the Digital Biology network, please open an **Issue** in this repository or contact **Glyxon Biolabs** at: **www.glyxon.com**
+
+*Empowering Decentralized Science through Open Infrastructure.* ```
