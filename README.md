@@ -56,7 +56,7 @@ Open-Synth is a catalyst for a decentralized network of researchers. We aim to:
 This project is executed by a high-level technical team with international research experience:
 
 * **David J. Castillo, PhD (Project Lead):** Founder of **Glyxon Biolabs**. Specialist in molecular biophysics and frugal science hardware.
-    * **Contact:** contact@glyxon.com
+    * **Contact:** glyxonbiolabs@gmail.com
 * **Carlos Barba-Ostria, PhD (Biosynthesis):** Expert in protein engineering and enzymatic systems (USFQ). 
     * **Contact:** cbarba@usfq.edu.ec
 * **Biological Validation:** Strategic collaboration with **Dr. Rosa Navarro’s Lab (IFC-UNAM)**, providing access to specialized *C. elegans* and microinjection facilities.
@@ -64,6 +64,6 @@ This project is executed by a high-level technical team with international resea
 
 ---
 ### Collaboration & Inquiries
-For technical inquiries, community partnerships, or to join the Digital Biology network, please open an **Issue** in this repository or contact **Glyxon Biolabs** at: **www.glyxon.com**
+For technical inquiries, community partnerships, or to join the Digital Biology network, please open an **Issue** in this repository or contact **Glyxon Biolabs** at: **glyxonbiolabs@gmail.com** | **www.glyxon.com**
 
-*Empowering Decentralized Science through Open Infrastructure.* ```
+*Empowering Decentralized Science through Open Infrastructure.*
